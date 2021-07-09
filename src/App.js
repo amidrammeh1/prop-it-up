@@ -8,25 +8,25 @@ function App() {
       <PersonCard
         fName= "Jane" 
         lName = "Doe"
-        age = "45"
+        age = {45}
         hairColor= "Black"
         />
          <PersonCard
         fName= "John" 
         lName = "Smith"
-        age = "88"
+        age = {88}
         hairColor= "Brown"
         />
          <PersonCard
         fName= "Millard" 
         lName = "Fillmore"
-        age = "50"
+        age = {50}
         hairColor= "Brown"
         />
          <PersonCard
         fName= "Maria" 
         lName = "Smith"
-        age = "62"
+        age = {62}
         hairColor= "Brown"
         />
     
